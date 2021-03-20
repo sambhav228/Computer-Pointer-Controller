@@ -5,4 +5,3 @@ numpy==1.17.4
 requests==2.22.0
 virtualenv==16.7.9
 PyAutoGUI==0.9.50
-
